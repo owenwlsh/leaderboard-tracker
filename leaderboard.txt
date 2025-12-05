@@ -1,7 +1,3 @@
-Leaderboard
-
-Rank | Username | Score | Date
------|----------|-------|-----
-1 | alice | 1500 | 2025-12-05
-2 | bob   | 1200 | 2025-12-04
-3 | carol | 950  | 2025-11-30
+placeholder|6767
+placeholder|67
+placeholder|6.7
